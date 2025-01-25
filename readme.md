@@ -1,35 +1,31 @@
-<a name="readme-top">
+<a name="Lourd Alcantara">
 
 <br/>
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <a href="https://github.com/LourdAlcantara/AWD-Fundamentals">
+
+  <h3 align="center">Fundamentals</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  This project includes user registration and login functionality with input validation, allowing for secure account management. 
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+<a href="https://github.com/LourdAlcantara/AWD-Fundamentals">
+
+[![wakatime](https://wakatime.com/badge/user/982b0e95-c30b-4dc1-a5d1-30ef6968400c/project/6a683774-b186-4c58-8223-2939e5abb3c1.svg)](https://wakatime.com/badge/user/982b0e95-c30b-4dc1-a5d1-30ef6968400c/project/6a683774-b186-4c58-8223-2939e5abb3c1)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -56,26 +52,16 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This project is a web-based registration and login system that allows users to create accounts and securely log in using their email and password. This project also provides some informations about the 4 fundamentals of coding.It provides a practical example of how client-side scripting can enhance user experience while laying the groundwork for future enhancements and more complex functionalities.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- User Registration and Login Functionality
+- Input Validation for Secure Account Creation
+- Redirection to User-Specified Pages After Login
+- Account Management with Email and Password Authentication
+- Responsive Design for Enhanced User Experience
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -115,8 +101,9 @@ WD-ProjectName
 ```
 
 ## Resources
+| Background Image | To provide background that is related to coding | https://www.pexels.com/search/videos/coding/
+| Font Awsome      |    Font Awesome provides a collection of scalable vector icons that can be customized with CSS, allowing you to enhance your website's design with icons for social media, navigation, and other UI elements.|<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">|
+|Bootsrap |This will allow you to leverage Bootstrap's grid system, buttons, modals, and other UI elements, making it easier to create responsive and visually appealing web pages.|<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"|
+|Google Font    | Allows me to use Montserrat fonts |<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">|
 
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
